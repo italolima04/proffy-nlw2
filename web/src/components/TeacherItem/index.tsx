@@ -17,14 +17,17 @@ export default function TeacherItem() {
           <span>Matemática Aplicada</span>
         </div>
       </header>
-      <p>Texto de Teste.</p>
-      <footer>
-        <p>Preço/hora:</p>
-        <strong>R$ 100,00</strong>
 
+      <p>Apaixonado pela resolução de problemas.</p>
+      <p>Encantado por código.</p>
+      <footer>
+        <p>
+          Preço/hora:
+          <strong>R$ 100,00</strong>
+        </p>
         <button type="button">
           <img src={whatsappIcon} alt="Whatsapp Ícone" />
-          Entrar em Contato!!!
+          Entrar em Contato
         </button>
       </footer>
     </article>
